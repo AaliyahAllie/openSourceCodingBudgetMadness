@@ -3,6 +3,7 @@ Budget Madness
 ### LINKS FOR USE
 * REPOSITORY LINK: https://github.com/AaliyahAllie/openSourceCodingBudgetMadness.git
 * YOUTUBE LINK:  https://www.youtube.com/watch?si=lo5bfMDsqv7jkUUe&v=hv8D4-JxoDc&feature=youtu.be
+* YouTube Link for Longer Video: https://youtu.be/6n4iUIE7A88?si=q_7yGfWo6vycbn_n
 
 #### Introduction
 This repository contains the code for Budget Madness, developed as part of our Part 2 assignment in the Open Source Coding course. The app is designed to help users effectively manage their finances by tracking expenses, monitoring income, and planning for future financial goals.
